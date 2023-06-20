@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TM50Coder
+- 👀 I’m interested in anime and video games
+- 🌱 I’m currently learning python
